@@ -40,7 +40,7 @@
 $.fn.threePWGallery = function(options_user){
 
 	/*------------------------------------------------------------------------------------------------------*/
-	// OPTIONS_
+	// OPTIONS
 
 	$.fn.threepwGallery.options_default = {
     		speed : 2000,
